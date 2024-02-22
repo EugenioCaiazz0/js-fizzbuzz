@@ -5,8 +5,10 @@
 }
 
 .fizzBox{
-    width: 550x;
-    height: 50px;
+    max-width: 200px;
+    max-height: 200px;
+    width: 200px;
+    height: 200px;
     display: flex;
     justify-content: center;
     align-items: center;
