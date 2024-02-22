@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fizzBox{
+    width: 550x;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid black;
+    margin: 5px;
+  }
+
+  .div3{
+    background-color: aquamarine;
+  }
+
+.div5{
+    background-color: darksalmon;
+}
+
+.div3e5{
+    background-color: plum;
+}
