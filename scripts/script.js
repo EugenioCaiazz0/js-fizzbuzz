@@ -22,6 +22,8 @@ for (let i = 1; i <= 100; i++) {
     classDiv5 = `div5`; 
     containerFzBz.innerHTML += 
     `<div class=" fizzBox ${classDiv5}"> FRIARIELL </div>`
+  } else {
+    console.log(i);
   }
 
 }
